@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[El Paso Commerical Photographer Mark Paulda]]></title>
         <description><![CDATA[El Paso Commerical Photographer Mark Paulda]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mark-paulda-el-paso-photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Dec 2015 06:09:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 21 Dec 2015 06:11:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mark-paulda-el-paso-photography/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[El Paso Rush Hour Photos - Mark Paulda]]></title>
             <description><![CDATA[<article><h1>El Paso Rush Hour Photos - Mark Paulda</h1><p>Photos of El Paso Traffic During Rush Hour on Interstate 10 With the Franklin Mountains in the Background</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a4d7aa0173f3282682222e287d4d947bf7ec0790.jpg"></article>]]></description>
             <link>http://www.elpasoimages.com/El-Paso-Rush-Hour/</link>
             <guid isPermaLink="false">7e6b8507-9f40-4768-baa5-99bc55aac6e1</guid>
-            <pubDate>Mon, 21 Dec 2015 06:08:46 GMT</pubDate>
+            <pubDate>Mon, 21 Dec 2015 06:11:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
