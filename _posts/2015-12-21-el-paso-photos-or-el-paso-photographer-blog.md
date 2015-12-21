@@ -17,8 +17,8 @@ keywords:
   - best
   - gift
 description: 'EL PASO PHOTOGRAPHER BLOG El Paso Photography Workshops El Paso Photos is pleased to announce Private Photography Workshops are now available. Whether you are a beginner, a seasoned photographer, or somewhere in between, El Paso Professional Photographer, Mark Paulda, offers private one-on-one photography workshops in El Paso.'
-datePublished: '2015-12-21T08:36:37.701Z'
-dateModified: '2015-12-21T08:36:17.668Z'
+datePublished: '2015-12-21T09:08:21.839Z'
+dateModified: '2015-12-21T08:59:35.421Z'
 author: []
 related: []
 app_links: []
@@ -35,4 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![El Paso Commercial Photographer Presents](https://s3-us-west-2.amazonaws.com/the-grid-img/p/99f93c602535ce84fdf56f8055dedf5853842227.jpg)
+![El Paso Commercial Photographer Presents](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0e4dcf78f1842c1a8103fb3c132b09d3a37cfb17.jpg)
