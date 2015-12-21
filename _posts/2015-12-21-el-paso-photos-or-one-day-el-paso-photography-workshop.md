@@ -17,8 +17,8 @@ keywords:
   - wayfarer
   - one-on-one
 description: Learn to take amazing photos in this one day photography class taught by El Paso Professional Photographer Mark Paulda.
-datePublished: '2015-12-21T08:11:11.878Z'
-dateModified: '2015-12-21T08:10:57.199Z'
+datePublished: '2015-12-21T08:42:40.330Z'
+dateModified: '2015-12-21T08:42:32.397Z'
 author: []
 related: []
 app_links: []
@@ -35,6 +35,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a8389152-b6ff-413b-a32f-14f3323a57cd.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/075ecff44bea04409b4e246af472973dc5f8cc5e.jpg)
 
 <article style=""><h1>El Paso Photos &amp;vert; One Day El Paso Photography Workshop</h1><p>Learn to take amazing photos in this one day photography class taught by El Paso Professional Photographer Mark Paulda&amp;period;</p></article>
