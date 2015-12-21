@@ -7,24 +7,22 @@ inLanguage: null
 starred: false
 keywords: []
 description: Home Page of El Paso Photos by El Paso Commercial Photographer Mark Paulda. Buy El Paso Pictures.
-datePublished: '2015-12-21T07:02:33.934Z'
-dateModified: '2015-12-21T06:56:18.474Z'
+datePublished: '2015-12-21T07:20:50.447Z'
+dateModified: '2015-12-21T07:20:47.841Z'
 author: []
 related: []
 app_links: []
 title: 'El Paso Photos | El Paso Photographer'
+sourcePath: _posts/2015-12-21-el-paso-photos-or-el-paso-photographer.md
+published: true
 authors: []
 publisher:
   name: 'El Paso Photos | El Paso Photographer'
   domain: www.elpasophotos.com
   url: 'http://www.elpasophotos.com'
   favicon: 'http://static.wixstatic.com/media/8c75d1_3043b1e8a02b4532a078985fc7188468.gif/v1/fill/w_16%2Ch_16%2Clg_1/8c75d1_3043b1e8a02b4532a078985fc7188468.gif'
-sourcePath: _posts/2015-12-21-el-paso-photos-or-el-paso-photographer.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>El Paso Photos | El Paso Photographer</h1><p>Home Page of El Paso Photos by El Paso Commercial Photographer Mark Paulda. Buy El Paso Pictures.</p></article>
-
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3117bde-9844-480f-9c3f-00ae09be5ef7.jpg)
+![El Paso Photos | Mark Paulda](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d395df3a2c9e03e298707b2ba732bc70dd04344b.jpg)
