@@ -17,8 +17,8 @@ keywords:
   - one-on-one
   - wayfarer
 description: 'El Paso Photography Review and Class on How to Make Money With Photography in El Paso. Taught by Professional Photographer and Best Selling Author, Mark Paulda'
-datePublished: '2015-12-21T08:56:29.586Z'
-dateModified: '2015-12-21T08:56:19.519Z'
+datePublished: '2015-12-21T20:12:42.811Z'
+dateModified: '2015-12-21T20:12:37.095Z'
 author: []
 related: []
 app_links: []
@@ -35,4 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![Three Day Photography Workshop in El Paso](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3e4153a016be70e4ea1f1c98e23cdc03843fa422.jpg)
+![Three Day Photography Workshop in El Paso](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b1218dd30c86c42a4401f1ca324525ace0753cec.jpg)
