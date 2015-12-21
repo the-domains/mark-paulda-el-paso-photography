@@ -1,0 +1,28 @@
+name: Mark Paulda El Paso Photography
+favicon: null
+layout_spectrum: 0.8326355034951121
+typography_spectrum: 0.6194309012498707
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.08645245851948857
+  lightness: 0.7098497319966555
+  saturation: 0.909724211320281
+  rhythmicContrast: 0.39718509721569717
+purpose: []
