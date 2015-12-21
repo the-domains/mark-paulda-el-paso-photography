@@ -17,8 +17,8 @@ keywords:
   - light
   - photos
 description: 'Five week intensive photography class in El Paso, taught by El Paso Professional Photographer and Best Selling Author, Mark Paulda'
-datePublished: '2015-12-21T08:39:52.803Z'
-dateModified: '2015-12-21T08:39:41.702Z'
+datePublished: '2015-12-21T09:12:26.869Z'
+dateModified: '2015-12-21T09:12:22.813Z'
 author: []
 related: []
 app_links: []
@@ -35,6 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6642fcf914d0513b7d4da9483240089b1902bbca.jpg)
-
-<article style=""><h1>El Paso Photos &amp;vert; Five Week Photography Workshop in El Paso</h1><p>Five week intensive photography class in El Paso&amp;comma; taught by El Paso Professional Photographer and Best Selling Author&amp;comma; Mark Paulda</p></article>
+![El Paso Photography Class](https://s3-us-west-2.amazonaws.com/the-grid-img/p/98b8c03124bf00b7a89d330447d3eeae2fa50e53.jpg)
