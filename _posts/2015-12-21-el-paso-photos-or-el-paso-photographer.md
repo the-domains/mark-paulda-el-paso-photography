@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Home Page of El Paso Photos by El Paso Commercial Photographer Mark Paulda. Buy El Paso Pictures.
-datePublished: '2015-12-21T07:24:18.572Z'
-dateModified: '2015-12-21T07:24:08.626Z'
+datePublished: '2015-12-21T20:15:57.954Z'
+dateModified: '2015-12-21T20:15:54.773Z'
 author: []
 related: []
 app_links: []
@@ -25,4 +25,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![El Paso Photos | Mark Paulda](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d395df3a2c9e03e298707b2ba732bc70dd04344b.jpg)
+![El Paso Photos | Mark Paulda](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b4aa2416b7beec197d4c142c9d4aff9bb0f2258b.jpg)
